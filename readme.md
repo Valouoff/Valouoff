@@ -8,9 +8,6 @@
 <p>My name is Valentin, and i'm a full-stack developer</p>
 
 <br>
-<br>
-<br>
-<br>
 
 <h2>Technologies and software used</h2>
 
@@ -30,9 +27,6 @@
 
 <img align="center" src="asset\software.png" alt="softwares" />
 
-<br>
-<br>
-<br>
 <br>
 
 <h2>Upcoming project</h2>
