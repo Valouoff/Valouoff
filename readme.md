@@ -11,19 +11,19 @@ Technologies and software used
 
 <p align="center">Programming Languages</p>
 
-<img align="center" src="images\langage.png" alt="langages" />
+<img align="center" src="asset\langage.png" alt="langages" />
 <br>
 <br>
 
 <p align="center">Frameworks & Libraries</p>
 
-<img align="center" src="images\framework.png" alt="frameworks" />
+<img align="center" src="asset\framework.png" alt="frameworks" />
 <br>
 <br>
 
 <p align="center">Tools & Technologies</p>
 
-<img align="center" src="images\software.png" alt="softwares" />
+<img align="center" src="asset\software.png" alt="softwares" />
 
 <br>
 <br>
