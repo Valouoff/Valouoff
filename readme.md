@@ -1,13 +1,8 @@
 <h3 align="center"> Hi there 👋</h3>
 
 <h2>My name is Valentin, and i'm a full-stack developer</h2>
-<br>
-<br>
-<br>
 
-Technologies and software used
-
-<hr>
+<h2>Technologies and software used</h2>
 
 <p align="center">Programming Languages</p>
 
@@ -27,10 +22,7 @@ Technologies and software used
 
 <br>
 <br>
-<br>
 
-upcoming project
-
-</hr>
+<h2>Upcoming project</h2>
 
 SOON....
