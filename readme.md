@@ -1,19 +1,22 @@
-<h3 align="center"> Hi there 👋</h3>
+# 👋 Hi, I'm Valentin
 
-<br>
-<br>
+**Full-Stack Developer**, based in France 🇫🇷  
+Always looking for new challenges and impactful projects.
 
-<h2>About me</h2>
+---
 
-<p>My name is Valentin, and i'm a full-stack developer</p>
+## 🎯 About Me
 
-<br>
+- Passionate about web development and **video games**
+- Always curious: learning new languages, frameworks, and approaches
 
-<h2>Technologies and software used</h2>
+---
+
+## 💻 My Skills
 
 <p align="center">Programming Languages</p>
 
-<img align="center" src="asset\langage.png" alt="langages" />
+<img align="center" src="asset\langage.png" alt="languages" />
 <br>
 <br>
 
@@ -25,10 +28,8 @@
 
 <p align="center">Tools & Technologies</p>
 
-<img align="center" src="asset\software.png" alt="softwares" />
+<img align="center" src="asset\software.png" alt="tools" />
 
-<br>
+---
 
-<h2>Upcoming project</h2>
-
-SOON....
+Thanks for stopping by! 🚀
