@@ -1,6 +1,16 @@
 <h3 align="center"> Hi there 👋</h3>
 
-<h2>My name is Valentin, and i'm a full-stack developer</h2>
+<br>
+<br>
+
+<h2>About me</h2>
+
+<p>My name is Valentin, and i'm a full-stack developer</p>
+
+<br>
+<br>
+<br>
+<br>
 
 <h2>Technologies and software used</h2>
 
@@ -20,6 +30,8 @@
 
 <img align="center" src="asset\software.png" alt="softwares" />
 
+<br>
+<br>
 <br>
 <br>
 
