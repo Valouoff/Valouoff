@@ -32,10 +32,11 @@ Always looking for new challenges and impactful projects.
 
 ---
 
-## My stats
+## 📊 My stats
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Valouoff&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Valouoff&layout=compact)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Valouoff&show_icons=true&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Valouoff&layout=compact&theme=tokyonight" width="48%" />
+</div>
 
 Thanks for stopping by! 🚀
