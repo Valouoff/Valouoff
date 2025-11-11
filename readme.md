@@ -32,12 +32,6 @@ Always looking for new challenges and impactful projects.
 
 ---
 
-## 🐍 My Contributions
-
-<div align="center">
-  <br/><br/><br/>
-</div>
-
 ## 📊 My Stats
 
 <div align="center">
