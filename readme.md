@@ -35,7 +35,6 @@ Always looking for new challenges and impactful projects.
 ## 🐍 My Contributions
 
 <div align="center">
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Valouoff/Valouoff/output/github-contribution-grid-snake.svg" />
   <br/><br/><br/>
 </div>
 
