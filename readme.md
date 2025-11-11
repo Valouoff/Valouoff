@@ -32,7 +32,14 @@ Always looking for new challenges and impactful projects.
 
 ---
 
-## 📊 My stats
+## 🐍 My Contributions
+
+<div align="center">
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Valouoff/Valouoff/output/github-contribution-grid-snake.svg" />
+  <br/><br/><br/>
+</div>
+
+## 📊 My Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Valouoff&show_icons=true&theme=tokyonight" width="48%" />
