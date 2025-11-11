@@ -29,6 +29,12 @@ Always looking for new challenges and impactful projects.
 <p align="center">Tools & Technologies</p>
 
 <img align="center" src="asset\software.png" alt="tools" />
+<br>
+<br>
+
+<p align="center">Operating Systems</p>
+
+<img align="center" src="asset\OS.png" alt="tools" />
 
 ---
 
