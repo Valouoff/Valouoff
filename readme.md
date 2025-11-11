@@ -44,5 +44,7 @@ Always looking for new challenges and impactful projects.
   <img src="https://github-readme-stats.vercel.app/api?username=Valouoff&show_icons=true&theme=tokyonight" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Valouoff&layout=compact&theme=tokyonight" width="48%" />
 </div>
+<br>
+<br>
 
 Thanks for stopping by! 🚀
