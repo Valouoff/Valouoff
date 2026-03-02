@@ -38,6 +38,12 @@ Always looking for new challenges and impactful projects.
 
 ---
 
+## 🔜 Coming soon
+
+### INTERAKT
+
+---
+
 ## 📊 My Stats
 
 <div align="center">
