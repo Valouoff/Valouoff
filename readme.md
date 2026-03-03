@@ -38,9 +38,20 @@ Always looking for new challenges and impactful projects.
 
 ---
 
-## 🔜 Coming soon
+## 🚀 Projects & Roadmap
 
-### INTERAKT
+### 🌟 Recently Released
+
+#### **[yomiru.fr](https://yomiru.fr)** – Platform for managing your manga collection.
+
+---
+
+### 🔜 Coming soon
+
+#### > Projects currently under development
+
+**- INTERAKT**
+**- GD Guide Editor**
 
 ---
 
