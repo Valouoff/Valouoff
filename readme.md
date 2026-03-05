@@ -51,7 +51,7 @@ Always looking for new challenges and impactful projects.
 #### > Projects currently under development
 
 ##### **- INTERAKT**
-##### **- GD Guide Editor**
+##### **- GD Editor Guide**
 
 ---
 
